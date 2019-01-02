@@ -1,0 +1,6 @@
+Este e s un archivo para generar la tabla de multiplicar
+
+Ejecutar este comando
+.....
+npm install
+......
